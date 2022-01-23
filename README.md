@@ -23,15 +23,14 @@ tags:
 - independent video game
 ---
 
-
-date: 2011-09-29 06:36:00+00:00
-
-
 # the-jack-of-all-trades
- a game prototype about choosing your own path in life (circa 2010; my first attempt at a game; made without a game framework!!)
-
-
-
+a game prototype about choosing your own path in life
+ 
+from 2011  
+my first attempt to make a game  
+made without a game framework!!  
+ 
+# *copied from web-site post*
 [Play the game](https://mind.rathewolf.com/the_jack_of_all_trades.html).
 
 This game is my submission for the Experimental Gameplay Project. The theme is [story game.](http://experimentalgameplay.com/blog/2011/09/story-game-in-september-2011/)
